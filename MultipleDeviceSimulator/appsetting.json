@@ -2,7 +2,7 @@
   "Configurations": {
     "Environment": "QA",
     "DeviceConfiguration": {
-      "DeviceConnectionString": "HostName=asp-iothub.azure-devices.net;DeviceId=virtualgateway;SharedAccessKey=gxWE6Y9m1vBFKjjaBL9ODbfSfSpDT4Ijn3Do/F0vv7U=",
+      "DeviceConnectionString": "<---Iothub Connection String ---->",
       "Certificate": {
         "IotHub": "ASP-BI-Lab-IIOT-IotHub.azure-devices.net",
         "IotDeviceName": "Device3",
